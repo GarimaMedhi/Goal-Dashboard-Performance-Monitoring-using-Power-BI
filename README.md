@@ -1,4 +1,4 @@
-# Goal-Dashboard-Performance-Monitoring-using-Power-BI
+#Goal-Performance-and-Monitoring-dashboard
 Project description
 
 This project involves building a dynamic and interactive dashboard in Power BI to monitor and analyze key performance indicators (KPIs) by comparing Target vs Actual data. The dashboard provides actionable insights by breaking down performance term-wise and overall, helping stakeholders identify gaps. Additionally, this dashboard is instrumental in driving business growth for the company by enabling better decision-making and optimizing processes based on real-time data. It's a pivotal tool that empowers your company to stay ahead in a competitive market.
