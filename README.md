@@ -16,7 +16,10 @@ Value Delivered: This dashboard enables stakeholders to monitor KPIs effectively
 It simplifies tracking of achievements against goals, aiding in performance optimization and strategic planning.
 ![image](https://github.com/user-attachments/assets/1080cebc-426d-481f-902b-7d405dcbc11a)
 
+
+
 Data Modeling
+
 The Power BI data model links key tables like APP_APF_SYS_OMO_Act, Target data, and Goals, enabling seamless tracking of marketing performance metrics across divisions, regions, and mediums. 
 This structured model supports comprehensive analysis and reporting for data-driven decision-making.
 ![image](https://github.com/user-attachments/assets/9bfe05b3-9ea9-4305-9ca1-b215f7b845f7)
